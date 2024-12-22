@@ -31,26 +31,7 @@
 **Fintech & Tools:**
 - PLAID API, TrueLayer, Appwrite, OAuth 2.0, Robo-Advisory
 - Environments: VSCode, Jupyter Notebook, Google Cloud, GitHub, dotenv
-
----
-
-## 🌟 Featured Projects
-
-1. **AI-Driven Financial Relationship Manager**
-   - **Tech Stack**: React.js, Node.js, GPT-4, PLAID API, Scikit-Learn
-   - **Features**: Personalized financial advisory, secure transaction analysis, and educational modules.
-   - **Outcome**: Enhanced financial literacy and inclusion, promoting responsible credit usage.
-
-2. **Supply Chain Optimization for OEMs**
-   - **Tech Stack**: Python, TensorFlow, Flask, MongoDB
-   - **Features**: Time-series demand forecasting, real-time supplier monitoring, route optimization.
-   - **Outcome**: Cost-efficient logistics and improved supplier reliability.
-
-3. **SRMingle: Campus Hub & Networking WebApp**
-   - **Tech Stack**: Python Django, SQLite, HTML, CSS, JavaScript
-   - **Features**: Comprehensive platform for department-centric engagement and community building.
-
----
+- 
 
 ## 🎓 Education
 
