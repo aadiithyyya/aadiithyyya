@@ -38,7 +38,7 @@
   Secured 4th place in finals at Citi IT HQ, Chennai.
 
 - **Volkswagen i.mobliothon 4.0 Hackathon**  
-  Semi-finalist (Ongoing, November 2024).
+  Semi-finalist (Built a fully functional prototype for the pre-final rounds).
 
 - **Tata Imagination Challenge 2024**  
   Cleared two rounds organized virtually by Tata Groups.
