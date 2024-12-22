@@ -31,17 +31,6 @@
 **Fintech & Tools:**
 - PLAID API, TrueLayer, Appwrite, OAuth 2.0, Robo-Advisory
 - Environments: VSCode, Jupyter Notebook, Google Cloud, GitHub, dotenv
-- 
-
-## 🎓 Education
-
-- **M.Tech (Integrated) in Computer Science Engineering (Specialization in Data Science)**  
-  **SRM Institute of Science and Technology** | GPA: 9.55 (2021 – Present)
-
-- **12th Grade (CBSE)**  
-  **Vels University, Chennai** | Percentage: 92% (2021)
-
----
 
 ## 🏆 Achievements
 
