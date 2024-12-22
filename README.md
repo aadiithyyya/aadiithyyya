@@ -13,24 +13,31 @@
 
 ---
 
-## 💻 Technical Expertise
+## Technical Expertise
 
-**Programming & Development:**
-- Python, JavaScript (ES6+), C
-- React.js, Node.js, Express.js, Flask, Django, Spring Boot
-- HTML, CSS, SQL, MongoDB, Streamlit
+### Programming & Development:
+- **Languages**: Python, JavaScript (ES6+), C  
+- **Frontend Frameworks**: React.js, HTML, CSS  
+- **Backend Frameworks**: Node.js, Express.js, Flask, Django, Spring Boot  
+- **Databases**: SQL, MongoDB  
+- **Libraries & Tools**: Streamlit, Charts.js
+-**Version Control & Deployment**: Git, Vercel  
 
-**Artificial Intelligence:**
-- Neural Networks, Image Processing, NLP (GPT, BERT), Transformers
-- AI Models Integration, ARIMA, CNNs
+### Artificial Intelligence:
+- **AI Models**: Neural Networks, Image Processing, NLP (GPT, BERT), Transformers  
+- **Specialized Models**: XGBoost, LSTM, Gradient Boosting, ARIMA, CNNs, Random Forest, Isolation Forest  
+- **AI Integration**: End-to-end integration of ML algorithms with React and backend services using Python and Node.js  
 
-**Data Science & Machine Learning:**
-- Predictive Analytics, Feature Engineering, Dataset Creation
-- Deep Learning (TensorFlow, PyTorch, Scikit-Learn), Ensemble Techniques
+### Data Science & Machine Learning:
+- **Techniques**: Predictive Analytics, Feature Engineering, Dataset Creation  
+- **Deep Learning Frameworks**: TensorFlow, PyTorch, Scikit-Learn  
+- **Ensemble Methods**: XGBoost, Random Forest, Gradient Boosting  
 
-**Fintech & Tools:**
-- PLAID API, TrueLayer, Appwrite, OAuth 2.0, Robo-Advisory
-- Environments: VSCode, Jupyter Notebook, Google Cloud, GitHub, dotenv
+### Fintech & Tools:
+- **APIs**: PLAID API, TrueLayer, OSRM (Mapping APIs)  
+- **Auth & Advisory**: Appwrite, OAuth 2.0, Robo-Advisory  
+- **Environments**: VSCode, Jupyter Notebook, Google Cloud, GitHub, dotenv  
+
 
 ## 🏆 Achievements
 
