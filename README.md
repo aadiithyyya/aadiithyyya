@@ -21,7 +21,7 @@
 - **Backend Frameworks**: Node.js, Express.js, Flask, Django, Spring Boot  
 - **Databases**: SQL, MongoDB  
 - **Libraries & Tools**: Streamlit, Charts.js
--**Version Control & Deployment**: Git, Vercel  
+- **Version Control & Deployment**: Git, Vercel  
 
 ### Artificial Intelligence:
 - **AI Models**: Neural Networks, Image Processing, NLP (GPT, BERT), Transformers  
