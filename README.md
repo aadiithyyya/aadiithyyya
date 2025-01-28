@@ -17,11 +17,11 @@
 
 ### Programming & Development:
 - **Languages**: Python, JavaScript (ES6+), C  
-- **Frontend Frameworks**: React.js, HTML, CSS  
-- **Backend Frameworks**: Node.js, Express.js, Flask, Django, Spring Boot  
-- **Databases**: SQL, MongoDB  
-- **Libraries & Tools**: Streamlit, Charts.js
-- **Version Control & Deployment**: Git, Vercel  
+- **Frontend Frameworks**: React.js, React Native, Swift, StoryBoard UI, HTML, CSS  
+- **Backend Frameworks**: Node.js, Express.js, Flask, Django, Spring Boot, RestAPIs 
+- **Databases**: SQL, MongoDB, Firebase
+- **Libraries & Tools**: Streamlit, Charts.js, nltk, ML
+- **Version Control & Deployment**: Git, Vercel, Render
 
 ### Artificial Intelligence:
 - **AI Models**: Neural Networks, Image Processing, NLP (GPT, BERT), Transformers  
@@ -34,7 +34,7 @@
 - **Ensemble Methods**: XGBoost, Random Forest, Gradient Boosting  
 
 ### Fintech & Tools:
-- **APIs**: PLAID API, TrueLayer, OSRM (Mapping APIs)  
+- **APIs**: PLAID API, TrueLayer, OSRM (Mapping APIs), GPT API  
 - **Auth & Advisory**: Appwrite, OAuth 2.0, Robo-Advisory  
 - **Environments**: VSCode, Jupyter Notebook, Google Cloud, GitHub, dotenv  
 
